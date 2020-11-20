@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.example.examenprom.FragmentListado"
+    android:id="@+id/frgListado"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="10"
+    />
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.example.examenprom.FragmentBoton"
+    android:id="@+id/frgBoton"
+    android:layout_width="match_parent"
+    android:layout_weight="90"
+    android:layout_height="match_parent"
+        />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExamenPROM</string>
+    <string name="actividad2">Actividad2</string>
+    <string name="examen_prom_angelo_buono">Examen PROM Angelo Buono</string>
+    <string name="salir">salir</string>
+    <string name="actividad1">Actividad1</string>
+    <string name="fecha">Fecha:</string>
+    <string name="fecha_ja">Fecha_ja</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">apellidos</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+    <string name="selecciona_horario_de_salida">Selecciona horario de salida:</string>
+    <string name="_9_00">9:00</string>
+    <string name="_11_00">11:00</string>
+    <string name="_13_00">13:00</string>
+    <string name="_15_00">15:00</string>
+    <string name="_17_00">17:00</string>
+    <string name="aceptar">aceptar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="txtdestino">txtDestino</string>
+    <string name="reserva_realizada">Verificacion de la reserva realizada</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="validar_los_datos">¿Validar los datos?</string>
+    <string name="apellidos1">Apellidos:</string>
+    <string name="nombre1">Nombre:</string>
+    <string name="volver">Volver</string>
+    <string name="viajes_icjardin">Viajes ICJardin</string>
+</resources>
